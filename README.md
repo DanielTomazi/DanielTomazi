@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Daniel Tomazi ✌️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielTomazi&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTomazi&layout=compact&theme=highcontrast)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Java" height="30" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
