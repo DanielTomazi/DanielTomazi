@@ -13,6 +13,8 @@
   <img align="center" alt="Daniel-CSS" height="30" width="90" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Daniel-HTML" height="30" width="90" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Daniel-Bootstrap" height="30" width="90" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="Daniel-MySQL" height="30" width="90" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Daniel-Azure" height="30" width="110" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-thebadge&logo=microsoftazure&logoColor=white">
 </div>
 
 ##
