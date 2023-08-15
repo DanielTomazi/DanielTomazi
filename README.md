@@ -14,13 +14,6 @@
   <img align="center" alt="Daniel-MySQL" height="30" width="90" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-# 📊 GitHub Stats:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielTomazi&show_icons=true&theme=chartreuse-dark)
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=DanielTomazi&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-
-
 ## 🗣 Social Media
  
 <div> 
@@ -28,3 +21,10 @@
   <a href="https://www.linkedin.com/in/daniel-tomazi-a82959282" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+# 📊 GitHub Stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielTomazi&show_icons=true&theme=chartreuse-dark)
+## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=DanielTomazi&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
