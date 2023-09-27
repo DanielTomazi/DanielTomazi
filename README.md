@@ -38,5 +38,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielTomazi&show_icons=true&theme=chartreuse-dark)
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=DanielTomazi&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=DanielTomazi&rank=-C,-B,-?&theme=matrix" />
 
