@@ -1,10 +1,3 @@
-# 🧑🏻‍💻 About Me:
-:one:  I'm a computer science student.<br/>
-:two:  I am passionate about the area of development and data science.<br/>
-:three:  I speak Portuguese and English.<br/>
-:four:  I have professional experience in projects, but I program for fun and hobby as well<br/>
-:five:  I'm always learning something new and discovering new things.</a><br/><br>
-
 # 💻 Tech Stack:
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Java" height="30" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
