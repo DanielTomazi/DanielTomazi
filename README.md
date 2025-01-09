@@ -37,12 +37,24 @@
   
 </div>
 
-
 # 📊 GitHub Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielTomazi&show_icons=true&theme=chartreuse-dark)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=DanielTomazi&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=DanielTomazi&rank=-C,-B,-?&theme=matrix" alt="GitHub Trophies" />
+    </td>
+  </tr>
+</table>
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=DanielTomazi&rank=-C,-B,-?&theme=matrix" />
+<div>
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielTomazi/DanielTomazi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielTomazi/DanielTomazi/output/github-contribution-grid-snake-dark.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanielTomazi/DanielTomazi/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
