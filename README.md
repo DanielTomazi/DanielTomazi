@@ -50,7 +50,11 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <div style="text-align: center;" align="center">
   
-  <h3>* GitHub Stats *</h3>
+  <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ff00&center=true&vCenter=true&random=false&width=524&lines=Github+Stats" alt="Typing SVG">
+  </a>
+  </div>
   <br>
 
 
@@ -62,6 +66,11 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 </div>
 
 #
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ff00&center=true&vCenter=true&random=false&width=524&lines=Days+working+with+code" alt="Typing SVG">
+  </a>
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielTomazi/DanielTomazi/output/github-contribution-grid-snake-dark.svg">
