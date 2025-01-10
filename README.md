@@ -1,4 +1,17 @@
-<img align="center" alt="" src="./src/header-gif">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=229A00&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG">
+  </a>
+</div>
+
+<img align="center" alt="" src="./src/header-gif.png">
+
+#
+
+<p align="center">Bacharelado em Ciência da Computação e futuro Mestrando na área de tecnologia residente de São Paulo. Atualmente trabalho como Engenheiro de Software no banco EstBank.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+
+#
 
 <img align="right" alt="" height="190px" src="./src/mario.gif">
 
