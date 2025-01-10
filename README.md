@@ -1,4 +1,6 @@
-<img align="right" alt="" height="190px" src="./src/load.gif">
+<img align="center" alt="" src="./src/header-gif">
+
+<img align="right" alt="" height="190px" src="./src/mario.gif">
 
 <h3 align="left">Connect with me!</h3>
 
