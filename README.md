@@ -60,7 +60,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DanielTomazi&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=00ff00&text_color=FFF&border_radius=3&border_color=FFF&icon_color=00ff00&theme=matrix" alt="GitHub stats">
 
-![Profile Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)
+![Profile Trophies](https://github-profile-trophy.vercel.app/?username=DanielTomazi&theme=matrix)
     
   </a>
 </div>
