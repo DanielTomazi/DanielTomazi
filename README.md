@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Bacharelado em Ciência da Computação e futuro Mestrando na área de tecnologia residente de São Paulo. Atualmente trabalho como Engenheiro de Software no banco EstBank.
+<p align="center">Bacharelado em Ciência da Computação e futuro mestrando na área de tecnologia residente de São Paulo. Atualmente trabalho como Engenheiro de Software no banco EstBank.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 #
