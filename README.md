@@ -24,89 +24,47 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <h3 align="left">My Stack</h3>
 
-<div align="left">
-<div align="left">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://skillicons.dev/icons?i=angular" height="25" alt="angularjs logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=maven" height="25" alt="apachemaven logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=azure" height="25" alt="azure logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="25" alt="bootstrap logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=c" height="25" alt="c logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=clojure" height="25" alt="clojure logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=cs" height="25" alt="csharp logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=cpp" height="25" alt="cplusplus logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=css" height="25" alt="css3 logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=dart" height="25" alt="dart logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=django" height="25" alt="django logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=docker" height="25" alt="docker logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="25" alt="dot-net logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=figma" height="25" alt="figma logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=flutter" height="25" alt="flutter logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=git" height="25" alt="git logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=go" height="25" alt="go logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=gradle" height="25" alt="gradle logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=html" height="25" alt="html5 logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=laravel" height="25" alt="laravel logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="25" alt="kotlin logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=linux" height="25" alt="linux logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="25" alt="mongodb logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=mysql" height="25" alt="mysql logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="25" alt="nestjs logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="25" alt="nextjs logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="25" alt="nodejs logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=php" height="25" alt="php logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=postgres" height="25" alt="postgresql logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=postman" height="25" alt="postman logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=py" height="25" alt="python logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=react" height="25" alt="react logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=spring" height="25" alt="spring logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="25" alt="tailwindcss logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=ts" height="25" alt="typescript logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=unreal" height="25" alt="unrealengine logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=unity" height="25" alt="unity logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=vue" height="25" alt="vuejs logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=java" height="25" alt="java logo" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=js" height="25" alt="javascript logo" />
-</div>
-
 </div>
 
 #
