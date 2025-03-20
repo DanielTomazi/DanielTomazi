@@ -13,7 +13,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 #
 
-<img align="right" alt="" height="270px" src="./src/mario.gif">
+<img align="right" alt="" height="200px" src="./src/mario.gif">
 
 <h3 align="left">Connect with me!</h3>
 
