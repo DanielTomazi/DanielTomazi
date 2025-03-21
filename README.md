@@ -1,4 +1,3 @@
-<!-- Título animado -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img 
@@ -8,7 +7,6 @@
   </a>
 </div>
 
-<!-- Imagem de cabeçalho principal -->
 <p align="center">
   <img 
     src="./src/header-gif.png" 
@@ -18,7 +16,6 @@
 
 ---
 
-<!-- TABELA: GIF em uma célula, texto em outra -->
 <table>
   <tr>
     <td valign="top" width="200">
@@ -47,8 +44,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tomazi/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danieltomaziii/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://devdanieltomazi.vercel.app/)
-
----
 
 ### My Stack
 
@@ -107,14 +102,13 @@
 
   <br/><br/>
 
-  <!-- Stats -->
   <img 
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DanielTomazi&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=00ff00&text_color=FFF&border_radius=3&border_color=FFF&icon_color=00ff00&theme=matrix" 
     alt="Estatísticas do GitHub" 
   />
 
   <br/>
-  <!-- Trophies -->
+ 
   <img 
     src="https://github-profile-trophy.vercel.app/?username=DanielTomazi&theme=matrix" 
     alt="Troféus do GitHub" 
