@@ -28,7 +28,7 @@
     <td valign="top">
       <p>
         Bacharelado em Ciência da Computação e futuro mestrando na área de tecnologia, residente em São Paulo.  
-        Atualmente, trabalho como Engenheiro de Software no banco <strong>EstBank</strong>.  
+        Atualmente, trabalho como Engenheiro de Software Pleno na <strong>Capgemini</strong>.  
         Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.  
         Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
       </p>
