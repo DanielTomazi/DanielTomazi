@@ -85,7 +85,6 @@
 ## 🐍 Contribution Activity
 
 <div align="center">
-  <h3>📈 Coding Journey Visualization</h3>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielTomazi/DanielTomazi/output/github-contribution-grid-snake-dark.svg">
@@ -99,7 +98,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14&height=100&section=footer" width="100%"/>
   
-  <p><em>"Code is like humor. When you have to explain it, it's bad."</em> – Cory House</p>
+  <p><em>"Talk is cheap. Show me the code." – Linus Torvalds</p>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=DanielTomazi&color=4A90E2&style=flat-square&label=Profile+Views)
 </div>
