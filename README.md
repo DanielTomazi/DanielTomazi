@@ -1,36 +1,28 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ff00&center=true&vCenter=true&width=524&lines=Welcome+to+my+profile!" 
-      alt="Typing SVG" 
-    />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=28&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+a+Software+Engineer!;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
 </div>
 
-<p align="center">
-  <img 
-    src="./src/header-gif.png" 
-    alt="GIF de cabeçalho" 
-  />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14&height=180&section=header&text=Software%20Engineer&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32" width="100%"/>
+</div>
 
----
+## 🚀 About Me
 
 <table>
   <tr>
-    <td valign="top" width="200">
-      <img 
-        src="./src/mario.gif" 
-        alt="GIF do Mario" 
-        width="200"
-      />
+    <td width="300px" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" alt="Coding GIF"/>
+      <br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielTomazi&theme=dark&hide_border=true&background=0D1117&stroke=4A90E2&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2&sideLabels=C9D1D9&dates=C9D1D9&sideNums=4A90E2&currStreakNum=4A90E2" alt="GitHub Streak" width="280px"/>
     </td>
-    <td valign="top">
+    <td>
+      <h3>👨‍💻 Professional Background</h3>
       <p>
-        Bacharelado em Ciência da Computação e futuro mestrando na área de tecnologia, residente em São Paulo.  
-        Atualmente, trabalho como Engenheiro de Software Pleno na <strong>Capgemini</strong>.  
-        Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.  
-        Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+        🎓 <strong>Computer Science Graduate</strong> and future Master's student in Technology<br>
+        📍 Based in <strong>São Paulo, Brazil</strong><br>
+        💼 Currently working as <strong>Mid-Level Software Engineer</strong> at <strong>Capgemini</strong><br>
+        🌱 Constantly updating my knowledge and seeking new challenges in technology<br>
+        ❤️ Passionate about learning and applying knowledge to create innovative solutions
       </p>
     </td>
   </tr>
@@ -38,99 +30,76 @@
 
 ---
 
-### Connect with me!
+## 🌐 Connect With Me
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:daniel_tomazi_oliveira@hotmail.com)
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel_tomazi_oliveira@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tomazi/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danieltomaziii/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://devdanieltomazi.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=vercel&logoColor=white)](https://devdanieltomazi.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danieltomaziii/)
 
-### My Stack
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=angular" height="25" alt="Angular logo" />
-  <img src="https://skillicons.dev/icons?i=maven" height="25" alt="Apache Maven logo" />
-  <img src="https://skillicons.dev/icons?i=azure" height="25" alt="Microsoft Azure logo" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="25" alt="Bootstrap logo" />
-  <img src="https://skillicons.dev/icons?i=c" height="25" alt="C logo" />
-  <img src="https://skillicons.dev/icons?i=clojure" height="25" alt="Clojure logo" />
-  <img src="https://skillicons.dev/icons?i=cs" height="25" alt="C# logo" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="25" alt="C++ logo" />
-  <img src="https://skillicons.dev/icons?i=css" height="25" alt="CSS3 logo" />
-  <img src="https://skillicons.dev/icons?i=dart" height="25" alt="Dart logo" />
-  <img src="https://skillicons.dev/icons?i=django" height="25" alt="Django logo" />
-  <img src="https://skillicons.dev/icons?i=docker" height="25" alt="Docker logo" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="25" alt=".NET logo" />
-  <img src="https://skillicons.dev/icons?i=figma" height="25" alt="Figma logo" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="25" alt="Flutter logo" />
-  <img src="https://skillicons.dev/icons?i=git" height="25" alt="Git logo" />
-  <img src="https://skillicons.dev/icons?i=go" height="25" alt="Go logo" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="25" alt="Gradle logo" />
-  <img src="https://skillicons.dev/icons?i=html" height="25" alt="HTML5 logo" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="25" alt="Laravel logo" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="25" alt="Kotlin logo" />
-  <img src="https://skillicons.dev/icons?i=linux" height="25" alt="Linux logo" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="25" alt="MongoDB logo" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="25" alt="MySQL logo" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="25" alt="NestJS logo" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="25" alt="Next.js logo" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="25" alt="Node.js logo" />
-  <img src="https://skillicons.dev/icons?i=php" height="25" alt="PHP logo" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="25" alt="PostgreSQL logo" />
-  <img src="https://skillicons.dev/icons?i=postman" height="25" alt="Postman logo" />
-  <img src="https://skillicons.dev/icons?i=py" height="25" alt="Python logo" />
-  <img src="https://skillicons.dev/icons?i=react" height="25" alt="React logo" />
-  <img src="https://skillicons.dev/icons?i=spring" height="25" alt="Spring logo" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="25" alt="Tailwind CSS logo" />
-  <img src="https://skillicons.dev/icons?i=ts" height="25" alt="TypeScript logo" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="25" alt="Unreal Engine logo" />
-  <img src="https://skillicons.dev/icons?i=unity" height="25" alt="Unity logo" />
-  <img src="https://skillicons.dev/icons?i=vue" height="25" alt="Vue.js logo" />
-  <img src="https://skillicons.dev/icons?i=java" height="25" alt="Java logo" />
-  <img src="https://skillicons.dev/icons?i=js" height="25" alt="JavaScript logo" />
 </div>
 
 ---
 
+## 🛠️ Technology Stack
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ff00&center=true&vCenter=true&width=524&lines=My+GitHub+Development+Stats" 
-      alt="Typing SVG" 
-    />
-  </a>
 
-  <br/><br/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,cs,cpp,go,kotlin,dart,php&theme=dark" />
 
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DanielTomazi&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=00ff00&text_color=FFF&border_radius=3&border_color=FFF&icon_color=00ff00&theme=matrix" 
-    alt="Estatísticas do GitHub" 
-  />
+<img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,html,css,bootstrap,tailwind&theme=dark" />
 
-  <br/>
- 
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=DanielTomazi&theme=matrix" 
-    alt="Troféus do GitHub" 
-  />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,dotnet,django,laravel&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=flutter,unity,unreal,mysql,postgres,mongodb&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=docker,git,figma,postman,azure,maven,gradle,vscode&theme=dark" />
+
 </div>
 
 ---
 
+## 📊 GitHub Analytics
+
 <div align="center">
-  <h3>Days Working With Code</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=20&pause=1000&color=4A90E2&center=true&vCenter=true&width=400&lines=GitHub+Development+Statistics" alt="Stats Title" />
+</div>
+
+<br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielTomazi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTomazi&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=C9D1D9"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DanielTomazi&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <h3>📈 Coding Journey Visualization</h3>
+  
   <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/DanielTomazi/DanielTomazi/output/github-contribution-grid-snake-dark.svg" 
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/DanielTomazi/DanielTomazi/output/github-contribution-grid-snake-dark.svg" 
-    />
-    <img 
-      src="https://raw.githubusercontent.com/DanielTomazi/DanielTomazi/output/github-contribution-grid-snake.svg" 
-      alt="Snake Animation" 
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielTomazi/DanielTomazi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielTomazi/DanielTomazi/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanielTomazi/DanielTomazi/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14&height=100&section=footer" width="100%"/>
+  
+  <p><em>"Code is like humor. When you have to explain it, it's bad."</em> – Cory House</p>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=DanielTomazi&color=4A90E2&style=flat-square&label=Profile+Views)
 </div>
