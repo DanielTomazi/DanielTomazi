@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14&height=180&section=header&text=Software%20Engineer&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32" width="100%"/>
 </div>
 
-## 🚀 About Me
+## About Me
 
 <table>
   <tr>
@@ -30,7 +30,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   
@@ -43,7 +43,7 @@
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=20&pause=1000&color=4A90E2&center=true&vCenter=true&width=400&lines=GitHub+Development+Statistics" alt="Stats Title" />
@@ -82,7 +82,7 @@
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   
